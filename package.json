@@ -1,0 +1,24 @@
+{
+  "name": "lingolocate",
+  "version": "1.0.0",
+  "description": "Guesses the language based on the inputted string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-su1/LingoLocate.git"
+  },
+  "author": "Daniel Su",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-su1/LingoLocate/issues"
+  },
+  "homepage": "https://github.com/daniel-su1/LingoLocate#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^5.0.0",
+    "langs": "^2.0.0"
+  }
+}
